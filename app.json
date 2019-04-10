@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/register/register",
+    "pages/identify/identify",
+    "pages/deposit/deposit",
+    
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "单车行",
+    "navigationBarTextStyle":"black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "您的位置将用于小程序的位置显示"
+    }
+  }
+}

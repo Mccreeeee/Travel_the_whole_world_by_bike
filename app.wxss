@@ -1,0 +1,6 @@
+/**app.wxss**/
+/* 相当于html的根节点<html></html> */
+@import "./style/weui.wxss";
+page{
+  height: 100%;
+}
